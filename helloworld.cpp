@@ -2,7 +2,7 @@
 Hello World
 
 outputs "Hello World"
-reconfirm branch
+branching successfully tested
 */
 #include <iostream>
 
